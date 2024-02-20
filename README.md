@@ -1,5 +1,6 @@
 # HHS CS Workshop: Wikipedia Game with BFS
 Learn Breadth-First-Search (BFS) through a program that plays the Wikipedia game.  
+[Workshop slides](https://github.com/BaroqueObama/hhs-ws-wiki-game/blob/main/GM13.pdf)  
 The [Wikipedia game](https://en.wikipedia.org/wiki/Wikipedia:Wiki_Game) involves trying to navigate from a "start" Wikipedia page to a "goal" Wikipedia page by traversing pages through clicking wikilinks. Fastest wins.  
 The code prompts the user for the starting and ending Wikipedia page. It then attempts to find a path between those two pages using BFS.  
 ## Code:
